@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Coches</string>
+    <string name="app_studio_name">Android Studio</string>
+    <string name="button">Botón</string>
+    <string name="calculadora">Inserta Número</string>
+    <string name="name"> Nombre del modelo :</string>
+    <string name="motivo">Motivo</string>
+    <string name="description">Descripción :</string>
+    <string name="precio">Precio :</string>
+    <string name="formulario">Formulario</string>
+    <string name="formresolution">Resolución Formulario</string>
+    <string name="send">Enviar</string>
+    <string name="error">Debes rellenar todos los campos</string>
+    <string name="banderas">Paises</string>
+    <string name="insertar">Inserta un nuevo coche</string>
+    <string name="country">País</string>
+    <string name="pais">País :</string>
+    <string name="cars">Coches </string>
+    <string name="motorbikes">Motos </string>
+    <string name="brands">Marcas</string>
+    <string name="marca">Marca de vehiculo :</string>
+    <string name="form">Inserta un nuevo vehiculo</string>
+    <string name="title_app">Collector\'s Garage</string>
+    <string name="imagen">URL imagen</string>
+    <string name="enter">Iniciar</string>
+
+</resources>

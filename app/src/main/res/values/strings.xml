@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Cars</string>
+    <string name="app_studio_name">Android Studio</string>
+    <string name="button">Button</string>
+    <string name="calculadora">Enter number</string>
+    <string name="name">Model name :</string>
+    <string name="motivo">Reason</string>
+    <string name="description">Description :</string>
+    <string name="precio">Price :</string>
+    <string name="formulario">Form</string>
+    <string name="formresolution">Form Resolution</string>
+    <string name="send">Send</string>
+    <string name="error">You must fill in all the fields</string>
+    <string name="banderas">Countries</string>
+    <string name="insertar">Insert a new car</string>
+    <string name="country">Country</string>
+    <string name="pais">Country :</string>
+    <string name="cars">Cars </string>
+    <string name="motorbikes">Motorbike </string>
+    <string name="brands">Brands</string>
+    <string name="title_app">Collector\'s Garage</string>
+    <string name="marca">Vehicle Brand :</string>
+    <string name="form">Insert new vehicle</string>
+    <string name="imagen">URL image</string>
+    <string name="enter">Start</string>
+</resources>
